@@ -46,7 +46,7 @@ education:
   - area: PhD Computer Architecture
     institution: Purdue University
     date_start: 2021-08-30
-    date_end: 2026-05-30 (expected)
+    date_end: 2026-05-30
     #summary: |
     #  Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     #button:
