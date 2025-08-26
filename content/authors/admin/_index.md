@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Yuchen Zhou
+title: 周昱晨
 
 # Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
+name_pronunciation: Yuchen Zhou
 
 # Full name (for SEO)
 first_name: Yuchen
