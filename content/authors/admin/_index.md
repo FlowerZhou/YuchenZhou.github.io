@@ -42,6 +42,10 @@ profiles:
 #  - icon: brands/instagram
 #    url: https://www.instagram.com/
 
+title: "Publications"
+view: 4  # card/grid view
+type: publication
+
 education:
   - area: PhD Computer Architecture
     institution: Purdue University
@@ -159,8 +163,8 @@ awards:
   - title: MICRO 2023 Travel grants
     url: https://microarch.org/micro56/
     date: '2023-10-28'
-    awarder: edX
-    icon: MICRO 2023
+    awarder: MICRO 2023
+    icon: micro
    
 ---
 

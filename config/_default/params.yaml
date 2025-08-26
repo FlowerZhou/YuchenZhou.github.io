@@ -53,3 +53,9 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+features:
+  bibliography:
+    enable: true
+    file: publications.bib
+
