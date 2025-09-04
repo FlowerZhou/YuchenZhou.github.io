@@ -22,6 +22,11 @@ superuser: true
 # Role/position/tagline
 role: PhD Student at Purdue University
 
+# Publications section
+title: "Publications"
+view: 4   # 4 = grid view
+type: publication
+
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Purdue University
@@ -78,7 +83,7 @@ education:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    
+
 work experence:
   - position: Research Intern
     company_name: Samsung Semiconductor, AGI Computing Lab
