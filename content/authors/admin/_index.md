@@ -42,9 +42,9 @@ profiles:
 #  - icon: brands/instagram
 #    url: https://www.instagram.com/
 
-title: "Publications"
-view: 4  # card/grid view
-type: publication
+#title: "Publications"
+#view: 4  # card/grid view
+#type: publication
 
 education:
   - area: PhD Computer Architecture
@@ -168,4 +168,4 @@ awards:
    
 ---
 
-I am currently a Phd Student at Purdue Univeristy advised by Professor Changhee Jung.
+I am a fifth-year Ph.D. student in Computer Science at Purdue University, advised by Professor Changhee Jung. My research focuses on providing crash consistency on diverse platforms, including embedded systems, server-class CPUs, and GPUs. I pursue this goal through compiler–architecture co-design, with an emphasis on maximizing performance while minimizing hardware overhead.
