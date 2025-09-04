@@ -80,7 +80,7 @@ education:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-experience:
+work:
   - position: Research Intern
     company_name: Samsung Semiconductor, AGI Computing Lab
     company_url: 'https://semiconductor.samsung.com/about-us/locations/us/us-campus/'
