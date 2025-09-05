@@ -43,7 +43,31 @@ profiles:
 #  - icon: brands/instagram
 #    url: https://www.instagram.com/
 
-publication:
+# Publications
+publications:
+  - title: "Your First Publication Title"
+    authors: "Y. Zhou, C. Jung, et al."
+    venue: "MICRO 2024"
+    year: 2024
+    type: "Conference"
+    url: "https://link-to-paper.com"
+    pdf: "path/to/paper1.pdf"
+    
+  - title: "Your Second Publication Title"
+    authors: "Y. Zhou, A. Collaborator, C. Jung"
+    venue: "ISCA 2023"
+    year: 2023
+    type: "Conference"
+    url: "https://link-to-paper.com"
+    pdf: "path/to/paper2.pdf"
+    
+  - title: "Your Workshop Paper"
+    authors: "Y. Zhou, C. Jung"
+    venue: "ASPLOS Workshop 2023"
+    year: 2023
+    type: "Workshop"
+    url: "https://link-to-paper.com"
+
 
 education:
   - area: PhD Computer Architecture
