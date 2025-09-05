@@ -48,6 +48,7 @@ profiles:
 #type: publication
 
 education:
+  - weight: 1
   - area: PhD Computer Architecture
     institution: Purdue University
     date_start: 2021-08-30
@@ -81,6 +82,7 @@ education:
     #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 work:
+  - weight: 2
   - position: Research Intern
     company_name: Samsung Semiconductor, AGI Computing Lab
     company_url: 'https://semiconductor.samsung.com/about-us/locations/us/us-campus/'
