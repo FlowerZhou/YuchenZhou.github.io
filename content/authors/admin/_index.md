@@ -43,9 +43,7 @@ profiles:
 #  - icon: brands/instagram
 #    url: https://www.instagram.com/
 
-#title: "Publications"
-#view: 4  # card/grid view
-#type: publication
+publication:
 
 education:
   - area: PhD Computer Architecture
