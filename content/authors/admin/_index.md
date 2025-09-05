@@ -149,7 +149,7 @@ languages:
   - name: Chinese
     percent: 100
   - name: English
-    percent: 80
+    percent: 75
   - name: Japanese
     percent: 50
 
