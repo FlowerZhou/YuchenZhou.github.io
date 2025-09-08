@@ -24,7 +24,7 @@ short_bio: >-
    I am a fifth-year Ph.D. student in Computer Science at Purdue University, advised by Professor Changhee Jung. My research focuses on providing crash consistency on diverse platforms, including embedded systems, server-class CPUs, and GPUs. I pursue this goal through compiler–architecture co-design, with an emphasis on maximizing performance while minimizing hardware overhead. 
   </p>
 
-portrait_url: /assets/images/photos/me.jpg
+portrait_url: /assets/images/photos/yc-photo.jpg
 portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
@@ -41,13 +41,24 @@ education:
   date: Sep. 2017 - Aug. 2020
 - name: Dalian University of Technology
   logo: /assets/images/badges/dut.png
-  position: MS in Computer Science
+  position: BE in Software Engineering
   date: Sep. 2017 - Aug. 2020
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+
+experience:
+ - name: Samsung Semiconductor, AGI Computing Lab
+   logo: /assets/images/badges/samsung.png
+   position: Research Intern
+   date: May. 2025 - Aug. 2025
+
+ - name: Samsung Semiconductor, Memory Solution Lab (MSL)
+   logo: /assets/images/badges/samsung.png
+   position: Research Intern
+   date: May. 2024 - Aug. 2024
+
+ - name: Baidu Research
+   logo: /assets/images/badges/baidu.png
+   position: Research Intern
+   date: Sep. 2020 - May. 2021
 
 awards:
 - name: MICRO Travel Grant
