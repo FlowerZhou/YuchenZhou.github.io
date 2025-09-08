@@ -24,7 +24,7 @@ short_bio: >-
    I am a fifth-year Ph.D. student in Computer Science at Purdue University, advised by Professor Changhee Jung. My research focuses on providing crash consistency on diverse platforms, including embedded systems, server-class CPUs, and GPUs. I pursue this goal through compiler–architecture co-design, with an emphasis on maximizing performance while minimizing hardware overhead. 
   </p>
 
-portrait_url: /assets/images/photos/me.jpg
+portrait_url: /assets/images/photos/yc-photo.jpg
 portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 

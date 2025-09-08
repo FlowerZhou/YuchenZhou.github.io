@@ -9,7 +9,7 @@ pub:            "2024 57th IEEE/ACM International Symposium on Microarchitecture
 pub_date:       "2024"
 #semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
 abstract:
-cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/lightwsp.png
 authors:
   - Yuchen Zhou
   - Jianping Zeng

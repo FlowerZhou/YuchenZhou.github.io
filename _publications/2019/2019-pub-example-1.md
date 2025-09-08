@@ -9,7 +9,7 @@ pub:            "arXiv preprint arXiv:1908.08774"
 pub_date:       "2024"
 #semantic_scholar_id: 204e3073870fae3d05bcbc2f6a8e263d9b72e776  # use this to retrieve citation count
 abstract:
-cover:          /assets/images/covers/cover3.jpg
+cover:          /assets/images/covers/tlb.png
 authors:
   - Yikun Ban
   - Yuchen Zhou

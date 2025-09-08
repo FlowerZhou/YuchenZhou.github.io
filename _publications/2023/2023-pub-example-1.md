@@ -5,7 +5,7 @@ selected:       true
 pub:            "Proceedings of the 56th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'23)"
 pub_date:       "2023"
 abstract: 
-cover:          /assets/images/covers/cover1.jpg
+cover:          /assets/images/covers/sweepcache.png
 authors:
 - Yuchen Zhou
 - Jianping Zeng
