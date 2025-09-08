@@ -16,5 +16,5 @@ authors:
   - Jianping Zeng
   - Changhee Jung
 links:
-Paper: https://dl.acm.org/doi/10.1109/MICRO61859.2024.00025 
+  Paper: https://dl.acm.org/doi/10.1109/MICRO61859.2024.00025 
 ---
