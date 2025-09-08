@@ -1,8 +1,8 @@
 ---
-title:          "LightWSP: Whole-System Persistence on the Cheap"
-date:           2024-05-12 00:01:00 +0800
+title:          "Coalesced TLB to Exploit Diverse Contiguity of Memory Mapping"
+date:           2019-05-12 00:01:00 +0800
 selected:       true
-pub:            "2024 57th IEEE/ACM International Symposium on Microarchitecture (MICRO'24)"
+pub:            "arXiv preprint arXiv:1908.08774"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
@@ -11,9 +11,10 @@ pub_date:       "2024"
 abstract:
 cover:          /assets/images/covers/cover3.jpg
 authors:
+  - Yikun Ban
   - Yuchen Zhou
-  - Jianping Zeng
-  - Changhee Jung
+  - Xu Cheng
+  - Jiangfang Yi
 links:
-  Paper: https://dl.acm.org/doi/10.1109/MICRO61859.2024.00025 
+  Paper: https://arxiv.org/abs/1908.08774 
 ---
