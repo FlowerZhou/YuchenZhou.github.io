@@ -2,7 +2,7 @@
 title:          "LightWSP: Whole-System Persistence on the Cheap"
 date:           2024-05-12 00:01:00 +0800
 selected:       true
-pub:            "2024 57th IEEE/ACM International Symposium on Microarchitecture (MICRO'24)"
+pub:            "2024 57th IEEE/ACM International Symposium on Microarchitecture (MICRO)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'

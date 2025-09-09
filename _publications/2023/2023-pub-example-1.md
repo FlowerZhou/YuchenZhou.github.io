@@ -2,7 +2,7 @@
 title:          "SweepCache: Intermittence-Aware Cache on the Cheap"
 date:           2023-10-28 00:01:00 +0800
 selected:       true
-pub:            "Proceedings of the 56th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO'23)"
+pub:            "Proceedings of the 56th Annual IEEE/ACM International Symposium on Microarchitecture (MICRO)"
 pub_date:       "2023"
 abstract: 
 cover:          /assets/images/covers/sweepcache.png

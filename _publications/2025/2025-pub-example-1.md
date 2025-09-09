@@ -2,7 +2,7 @@
 title:          "Performance Characterizations and Usage Guidelines of Samsung CMM-H"
 date:           2025-04-29 00:01:00 +0800
 selected:       true
-pub:            "IEEE Micro, 2025"
+pub:            "IEEE Micro"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
