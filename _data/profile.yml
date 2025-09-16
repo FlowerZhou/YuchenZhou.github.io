@@ -1,10 +1,10 @@
-primary_name: "Yuchen Zhou"
+primary_name: "Yuchen Zhou (周昱晨)"
 secondary_name: ""
 navbar_name: "Yuchen Zhou"
 
 positions:
 - logo: /assets/images/badges/purdue.png  # Logo is optional
-  name: Fifth-Year Ph.D. Student at Purdue University
+  name: Ph.D. Student at Purdue University
 
 
 email: "zhou1166@purdue.edu"
@@ -21,12 +21,12 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-   I am a fifth-year Ph.D. student in Computer Science at Purdue University, advised by Professor Changhee Jung. My research focuses on providing crash consistency on diverse platforms, including embedded systems, server-class CPUs, and GPUs. I pursue this goal through compiler–architecture co-design, with an emphasis on maximizing performance while minimizing hardware overhead. 
+   I am a fifth-year Ph.D. student in Computer Science at Purdue University, advised by Professor <a href="https://www.cs.purdue.edu/homes/chjung/"><strong>Changhee Jung</strong></a>. My research focuses on providing crash consistency on diverse platforms, including embedded systems, server-class CPUs, and GPUs. I pursue this goal through compiler–architecture co-design, with an emphasis on maximizing performance while minimizing hardware overhead. 
   </p>
 
 portrait_url: /assets/images/photos/yc-photo.jpg
 portrait_caption: >-
-  Photo by my girl friend Yi at San Jose.
+  Captured in San Jose by my girlfriend Yi.
 
 education:
 - name: Purdue University
