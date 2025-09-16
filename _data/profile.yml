@@ -33,7 +33,7 @@ short_bio: >-
   </p>
 
   <p>
-  More recently, I am interested in applying machine learning to energy-harvesting systems in ways that are both energy-efficient and reasonable, with the goal of designing smarter, more sustainable systems.
+  More recently, I am also interested in applying machine learning to energy-harvesting systems in ways that are both energy-efficient and reasonable, with the goal of designing smarter, more sustainable systems.
   </p>
 
 portrait_url: /assets/images/photos/yc-photo.jpg
@@ -77,3 +77,9 @@ awards:
   date: 2024
 - name: MICRO Travel Grant 
   date: 2023
+- name: Learning Excellence Award
+  date: 2018
+- name: "Guang Hua" Scholarship
+  date: 2018
+- name: "The Star of EECS" Award
+  date: 2018
