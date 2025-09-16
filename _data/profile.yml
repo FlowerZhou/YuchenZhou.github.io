@@ -23,11 +23,11 @@ short_bio: >-
   <p>
   I am a fifth-year Ph.D. student in Computer Science at <a href="https://www.cs.purdue.edu/"><strong>Purdue University</strong></a>, advised by <a href="https://www.cs.purdue.edu/homes/chjung/"><strong>Prof. Changhee Jung</strong></a>.
 
-Before that, I received my Master's degree from <a href="https://english.pku.edu.cn/"><strong>Peking University</strong></a>, advised by <a href="https://cs.pku.edu.cn/info/1235/2118.htm/"><strong>Prof. Xianhua Liu</strong></a> at the <a href="https://cs.pku.edu.cn/info/1165/1840.htm"><strong>MPRC</strong></a> lab, and my Bachelor's degree from <a href="https://en.dlut.edu.cn/"><strong>Dalian University of Technology</strong></a>.
+  Before that, I received my Master's degree from <a href="https://english.pku.edu.cn/"><strong>Peking University</strong></a>, advised by <a href="https://cs.pku.edu.cn/info/1235/2118.htm/"><strong>Prof. Xianhua Liu</strong></a> at the <a href="https://cs.pku.edu.cn/info/1165/1840.htm"><strong>MPRC</strong></a> lab, and my Bachelor's degree from <a href="https://en.dlut.edu.cn/"><strong>Dalian University of Technology</strong></a>.
 
-My research focuses on providing **reliable and high-performance systems** across embedded platforms, server-class CPUs, and GPUs. I pursue these goals through compiler–architecture co-design, aiming to maximize performance while minimizing hardware overhead.
+  My research focuses on providing **reliable and high-performance systems** across embedded platforms, server-class CPUs, and GPUs. I pursue these goals through compiler–architecture co-design, aiming to maximize performance while minimizing hardware overhead.
 
-As part of this journey, I have explored **cutting-edge architectures like CXL** for server-class CPUs and GPUs to better understand their performance potential. More recently, I am interested in applying **machine learning to energy-harvesting systems** in ways that are both energy-efficient and reasonable, with the goal of designing smarter, more sustainable systems.
+  As part of this journey, I have explored **cutting-edge architectures like CXL** for server-class CPUs and GPUs to better understand their performance potential. More recently, I am interested in applying **machine learning to energy-harvesting systems** in ways that are both energy-efficient and reasonable, with the goal of designing smarter, more sustainable systems.
   </p>
 
 portrait_url: /assets/images/photos/yc-photo.jpg
